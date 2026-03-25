@@ -1,7 +1,7 @@
 ## 🚀 Guide to Setup Up a  Basic Express Server with TypeScript
 
 This guide provides a step-by-step process for setting up a basic web server using Express.js and TypeScript.
-Prerequisites
+Prerequisites 
 Ensure you have the following installed:
 
 Node.js ( Latest LTS recommended )
