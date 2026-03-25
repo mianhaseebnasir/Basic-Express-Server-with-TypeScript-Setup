@@ -1,4 +1,4 @@
-## Guide to Setup Up a Basic Express Server with TypeScript
+## 🚀 Guide to Setup Up a  Basic Express Server with TypeScript
 
 This guide provides a step-by-step process for setting up a basic web server using Express.js and TypeScript.
 Prerequisites
@@ -129,3 +129,35 @@ You should see the message: Server is running at http://localhost:3000
 Open your web browser and navigate to http://localhost:3000 to see the
 
 "Server is Live!" message.
+
+## 📂 Project Structure
+
+server/ <br>
+│── node_modules/<br>
+│── server.ts<br>
+│── package.json<br>
+│── tsconfig.json<br>
+
+## 💡 Features
+<li>Simple and clean setup</li>
+<li>TypeScript support</li>
+<li>Easy to understand structure</li>
+<li>Ready for future scaling</li>
+
+## 🎯 Purpose
+
+This project is created to help developers:
+
+<li>Learn backend basics</li>
+<li>Start Node.js + TypeScript projects</li>
+<li>Build REST APIs</li>
+
+## 👨‍💻 Author
+
+Mian Haseeb Nasir<br>
+Software Engineer | MERN Stack & AI Developer<br>
+Founder @ Nova-Stack Technologies<br>
+
+GitHub: https://github.com/mianhaseebnasir
+
+LinkedIn: https://www.linkedin.com/in/mianhaseebnasir/
